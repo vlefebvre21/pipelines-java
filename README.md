@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/axaim-dev/ALM_training/_apis/build/status/vlefebvre21.pipelines-java?branchName=master)](https://dev.azure.com/axaim-dev/ALM_training/_build/latest?definitionId=125&branchName=master)
 
 # Contributing
 
